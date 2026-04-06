@@ -6,7 +6,7 @@ The **RobustAI Research Group** is located at the [Department of Informatics and
 
 Our group is led by [Prof. Christos Diou](https://diou.github.io) (Assistant Professor in AI) and currently consists of 2 PostDoc researchers, 1 PhD candidate, and 4 research associates.
 
-🌐 **Website:** [robust-ai.hua.gr](https://robust-ai.hua.gr) *(update with actual URL)*
+🌐 **Website:** [robust-ai.hua.gr](https://robust-ai.hua.gr) *(TODO:update with actual URL)*
 
 ---
 
