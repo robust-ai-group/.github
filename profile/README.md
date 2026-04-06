@@ -49,8 +49,8 @@ Our group is led by [Prof. Christos Diou](https://diou.github.io) (Assistant Pro
 ## 📄 Selected Publications
 
 - **Gradient-Guided Annealing for Domain Generalization** — Ballas & Diou, *CVPR 2025* · [Paper](https://cvpr.thecvf.com/virtual/2025/poster/34365) · [arXiv](https://arxiv.org/abs/2502.20162) · [Code](https://github.com/aristotelisballas/GGA)
-- **Multiscale and Multilayer Contrastive Learning for Domain Generalization** — Ballas & Diou, *IEEE Transactions on Artificial Intelligence, 2024* · [Code](https://github.com/aristotelisballas/biodg)
-- **Towards Domain Generalization for ECG and EEG Classification: Algorithms and Benchmarks** — Ballas & Diou, *IEEE Transactions on Emerging Topics in Computational Intelligence, 2024*
+- **Multiscale and Multilayer Contrastive Learning for Domain Generalization** — Ballas & Diou, *IEEE Transactions on Artificial Intelligence, 2024* · [Code](https://github.com/aristotelisballas/m2cl)
+- **Towards Domain Generalization for ECG and EEG Classification: Algorithms and Benchmarks** — Ballas & Diou, *IEEE Transactions on Emerging Topics in Computational Intelligence, 2024* · [Code](https://github.com/aristotelisballas/biodg)
 - **Which Augmentation Should I Use? (Phonocardiogram SSL)** — Ballas et al., *IEEE Access, 2024* · [arXiv](https://arxiv.org/abs/2312.00502) · [Code](https://github.com/aristotelisballas/listen2yourheart/)
 
 📚 [Full publication list →](https://robust-ai.hua.gr/publications) *(update with actual URL)*
