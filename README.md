@@ -41,9 +41,8 @@ Our group is led by [Prof. Christos Diou](https://diou.github.io) (Assistant Pro
 - Ioannis Roumeliotis
 
 ### Alumni
-- **[Niki Kiriakidou](https://kiriakidou.github.io)** — PhD (2021–2025)
-- **Aristotelis Ballas** — PhD (defended Dec 2025)
-- **Ioannis Sarridis** — PhD (defended Apr 2026)
+- **[Niki Kiriakidou](https://kiriakidou.github.io)**
+- **Ioannis Sarridis**
 
 ---
 
